@@ -1,0 +1,12 @@
+{
+    "full_name": "First and last Name",
+    "email": "",
+    "github_username": "Your github username.",
+    "project_name": "Your Project Name",
+    "project_short_description": "Description of your project",
+    "year": "2020",
+    "_copy_without_render": [
+        "*.html",
+        "*.js"
+    ]
+}
