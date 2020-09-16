@@ -1,3 +1,3 @@
-import {{ cookiecutter.project_short_description}}
+import {{ cookiecutter.project_name }}
 
-{{ cookiecutter.project_short_description}}.main()
+{{ cookiecutter.project_name}}.main()
