@@ -7,6 +7,7 @@ Created:
 
 import py_cui
 
+__version__ = 'v0.0.1'
 
 class {{ cookiecutter.project_name|title }}App:
 
