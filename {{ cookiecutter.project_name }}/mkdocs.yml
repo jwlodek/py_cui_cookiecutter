@@ -1,6 +1,6 @@
 site_name: {{ cookiecutter.project_name }} Documentation
 repo_url: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.project_name }}/
-copyright: 2020 - Jakub Wlodek
+copyright: 2020 - {{ cookiecutter.full_name }}
 nav:
   - Home: index.md
   - Installation: install.md
