@@ -1,6 +1,6 @@
 # py_cui cookiecutter
 
-This project is meant to simplify templating a new `py_cui` based interface. To use it, first install cookiecutter:
+This project is meant to simplify templating a new [`py_cui`](https://github.com/jwlodek/py_cui) based interface. To use it, first install cookiecutter:
 
 ```
 pip install cookiecutter
